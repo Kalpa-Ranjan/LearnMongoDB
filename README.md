@@ -1,6 +1,7 @@
 # Learn MongoDB
+> **Contents**
 
-> **Basics**
+**Basics**
 1. Introduction to MongoDB
 2. NoSQL vs SQL
 3. JSON vs BSON
@@ -13,7 +14,8 @@
 10. Projection and relationship
 11. Embedded Documents
 
-> **Advanced**
+**Advanced**
+
 12. Introdution to indexes
 13. Creating and managing indexes
 14. Underastanding the Aggregation framework
@@ -23,7 +25,9 @@
     4.  Aggregation operators and expressions
 15. Pipeline stages
     * ($match, $project, $group, $sort, $limit, $unwind, $filter, $skip)
-> **Projects**
+  
+**Projects**
+
 1. Working with MongoDB
 2. Node.js driver
    * How to perform CRUD opertaions in real life projects
