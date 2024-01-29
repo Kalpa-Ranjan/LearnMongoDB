@@ -1,6 +1,14 @@
 # Learn MongoDB
-> **Contents**
 
+**Author: Kalpa Behera**
+
+*Date: 28/01/2024*
+> **Contents**
+```mermaid
+sequenceDiagram
+    Start->>Complete: Introduction to MongoDB
+    Start -->> Incomplete: NoSQL vs SQL
+```
 **Basics**
 1. Introduction to MongoDB
 2. NoSQL vs SQL
@@ -31,3 +39,11 @@
 1. Working with MongoDB
 2. Node.js driver
    * How to perform CRUD opertaions in real life projects
+
+
+
+```
+brew services start mongodb-community@7.0
+
+brew services stop mongodb-community@7.0
+```
